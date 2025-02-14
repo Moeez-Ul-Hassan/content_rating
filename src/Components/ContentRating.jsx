@@ -5,6 +5,7 @@ import './ContentRating.css';
 class ContentRating extends Component {
   constructor() {
     super();
+    
   }
   render() {
     return (
